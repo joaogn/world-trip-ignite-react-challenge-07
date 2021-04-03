@@ -22,7 +22,7 @@ export default function Home({ continents }: HomeProps) {
   return (
     <>
       <Head>
-        <title>WorldTip</title>
+        <title>WorldTrip</title>
         <meta
           name="description"
           content="Conheça as 100 cidades mais visitadas do mundo e prepare sua viagem"

@@ -50,7 +50,7 @@ export default function Continent({ continent }: ContinentProps) {
   return (
     <>
       <Head>
-        <title>{`WorldTip | ${continent.name}`}</title>
+        <title>{`WorldTrip | ${continent.name}`}</title>
         <meta
           name="description"
           content={`Conheça as cidades mais visitadas da ${continent.name} e prepare sua viagem`}

@@ -4,6 +4,8 @@ Application developed to practice NextJS with SSG. In this application, you can 
 
 Developed in the ignite course by rocketseat .
 
+[DEMO](https://worldtrip.joaogn.com/)
+
 ### How to run
 
 ## instal dependencies
